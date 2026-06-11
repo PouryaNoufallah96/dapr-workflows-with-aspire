@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OrderApi.AppHost/OrderApi.AppHost.csproj" />
+  <Project Path="OrderApi/OrderApi.csproj" />
+  <Project Path="OrderProcessing.ServiceDefaults/OrderProcessing.ServiceDefaults.csproj" />
+  <Project Path="OrderProcessing.Tests/OrderProcessing.Tests.csproj" />
+</Solution>
